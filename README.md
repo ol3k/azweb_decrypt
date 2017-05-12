@@ -1,10 +1,10 @@
-Paywall Issue
+<b>Paywall Issue</b>
 
-aachener-zeitung.de
-aachener-nachrichten.de
+www.aachener-zeitung.de</br>
+www.aachener-nachrichten.de
 
-
-0. information
+<ul>
+<li><b>0. information</b></li>
 
 the website is offering a mixture of free and payed articles hidden by paywall. (http://www.aachener-zeitung.de/zva/pc/)
 
@@ -14,15 +14,17 @@ http://www.aachener-zeitung.de/lokales/juelich/zukunft-von-haus-overbach-ist-lan
 hidden article:
 http://www.aachener-zeitung.de/lokales/juelich/feierabendmarkt-in-juelich-mit-bilderbuchstart-1.1622101
 
-1. timeline
+<li><b>1. timeline</b><li>
 
 04.05.2017 20:53: informed "AZ - Lokales" via facebook pages about the possibility to read all hidden content (https://www.facebook.com/azlokalesaachen/)
 04.05.2017 21:04: response with information that the issue will be forwarded
 
-2. PoC
+<li><b>2. PoC</b></li>
 ---
 
 
-3. responsible disclosure 
+<li><b>3. responsible disclosure</b></li>
 
 disclosure until 04.08.2017
+
+</ul>
