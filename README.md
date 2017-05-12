@@ -16,8 +16,10 @@ http://www.aachener-zeitung.de/lokales/juelich/feierabendmarkt-in-juelich-mit-bi
 
 <li><b>1. timeline</b><li>
 
-04.05.2017 20:53: informed "AZ - Lokales" via facebook pages about the possibility to read all hidden content (https://www.facebook.com/azlokalesaachen/)
-04.05.2017 21:04: response with information that the issue will be forwarded
+<ul>
+<li>04.05.2017 20:53: informed "AZ - Lokales" via facebook pages about the possibility to read all hidden content (https://www.facebook.com/azlokalesaachen/)</li>
+<li>04.05.2017 21:04: response with information that the issue will be forwarded</li>
+</ul>
 
 <li><b>2. PoC</b></li>
 ---
