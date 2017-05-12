@@ -1,4 +1,4 @@
-<b>Paywall Issue</b></br>
+<b>Paywall Hack / Issue</b></br>
 
 www.aachener-zeitung.de</br>
 www.aachener-nachrichten.de</br>
