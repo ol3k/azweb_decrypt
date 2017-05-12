@@ -22,7 +22,7 @@ hidden article: http://www.aachener-zeitung.de/lokales/juelich/feierabendmarkt-i
 </ul>
 
 <b>2. PoC</b></br>
-Code will be released after fix or responsible disclosure
+Code will be released after fix or expiration of responsible disclosure
 
 
 <b>3. responsible disclosure</b></br>
