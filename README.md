@@ -26,5 +26,5 @@ Code will be released after fix or expiration of responsible disclosure
 
 
 <b>3. responsible disclosure</b></br>
-disclosure until 04.08.2017
+responsible disclosure until 04.08.2017
 </ul>
