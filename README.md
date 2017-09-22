@@ -22,7 +22,12 @@ hidden article: http://www.aachener-zeitung.de/lokales/juelich/feierabendmarkt-i
 </ul>
 
 <b>2. PoC</b></br>
-Code will be released after fix or expiration of responsible disclosure
+
+    var iv = "F27D5C9927726BCEFE7510B1BDD3D137";
+    var salt = "3FF2EC019C627B945225DEBAD71A01B6985FE84C95A70EB132882F88C0A59A55";
+    var keySize = 128;
+    var iterationCount = 100;
+    var passPhrase = "Zeitungsverlag Aachen GmbH";
 
 
 <b>3. responsible disclosure</b></br>
