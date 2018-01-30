@@ -1,3 +1,6 @@
+<b>Download Chrome Extension:<b><br>
+https://chrome.google.com/webstore/detail/azan-decrypt/lmffohencfjcmgodmepkjajnfgbokcli?hl=de<br><br>
+
 <b>Paywall Hack / Issue</b></br>
 
 www.aachener-zeitung.de</br>
