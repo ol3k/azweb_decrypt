@@ -1,0 +1,12 @@
+javascript:(
+function() { 
+
+  'use strict'; 
+  document.getElementById("articlearea").style.display = 'block';
+  document.getElementById("coral_talk_stream").style.display = 'none';
+  document.getElementById("articleNonPaidArea").style.display = 'none';
+  document.getElementsByClassName("icon-key")[0].className = "icon-check";
+  document.getElementsByClassName("single locked")[0].className = "single"; }
+
+)
+();
