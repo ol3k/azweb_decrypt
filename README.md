@@ -1,7 +1,7 @@
 <b>Download Chrome Extension:</b><br>
 https://chrome.google.com/webstore/detail/azan-decrypt/lmffohencfjcmgodmepkjajnfgbokcli?hl=de<br><br>
 
-<b>mobile version</b>
+<b>mobile version</b><br>
 Mobile version of website just hides the "real" content.
 - Added bookmarklet for use in mobile browser.
 
