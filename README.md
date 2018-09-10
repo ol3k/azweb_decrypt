@@ -9,7 +9,7 @@ see https://www.aachener-zeitung.de/digital/neue-webseite-mit-neuem-design-bei-a
 
 
 <b>Update 10.09.18</b><br>
-Bookmarklet and extension working again.
+Bookmarklet and extension working again. Make sure to use version >=0.3
 - Click on image to go to decrypted version of article if using direct links to paywall.
 
 <s>
@@ -17,7 +17,7 @@ Usage change:
 
 1. visit website (e.g. https://www.aachener-zeitung.de)
 2. Use bookmarklet to prepare az-web links
-3. No paywall.<s>
+3. No paywall.</s>
 
 <b>Download Chrome Extension:</b><br>
 https://chrome.google.com/webstore/detail/azan-decrypt/lmffohencfjcmgodmepkjajnfgbokcli?hl=de<br><br>
