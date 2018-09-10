@@ -1,3 +1,5 @@
+<b>Paywall Hack / Issue</b></br>
+
 <b>!!! Design Changes and Site Relaunch on 10.09.18 !!!</b><br>
 
 <s>The <b>decryptions isn't working</b> any more since 10.09.18 after a design relaunch.<br></s>
@@ -21,7 +23,13 @@ https://chrome.google.com/webstore/detail/azan-decrypt/lmffohencfjcmgodmepkjajnf
 Mobile version of website just hides the "real" content.
 - Added bookmarklet for use in mobile browser.</s> 
 
-<b>Paywall Hack / Issue</b></br>
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+The following information are no longer valid because of design changes. (still here for the sake of completeness)
+
 
 www.aachener-zeitung.de</br>
 www.aachener-nachrichten.de</br>
