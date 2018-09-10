@@ -6,12 +6,20 @@ Paywall has changed in general.<br>
 see https://www.aachener-zeitung.de/digital/neue-webseite-mit-neuem-design-bei-az-und-an_aid-32816053
 
 
-<b>Download Chrome Extension:</b><br>
+<b>Update 10.09.18</b><br>
+Bookmarlet working again. Extension still broken.
+Usage change:
+
+1. visit website (e.g. https://www.aachener-zeitung.de)
+2. Use bookmarklet to prepare az-web links
+3. No paywall.
+
+<s> <b>Download Chrome Extension:</b><br>
 https://chrome.google.com/webstore/detail/azan-decrypt/lmffohencfjcmgodmepkjajnfgbokcli?hl=de<br><br>
 
 <b>mobile version</b><br>
 Mobile version of website just hides the "real" content.
-- Added bookmarklet for use in mobile browser.
+- Added bookmarklet for use in mobile browser.</s> 
 
 <b>Paywall Hack / Issue</b></br>
 
