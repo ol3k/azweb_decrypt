@@ -1,40 +1,12 @@
 javascript:(function() {
-    'use strict';
-    var j = 0;
-    var cipherText,decrypt = "";
-    var iv = "F27D5C9927726BCEFE7510B1BDD3D137";
-    var salt = "3FF2EC019C627B945225DEBAD71A01B6985FE84C95A70EB132882F88C0A59A55";
-    var keySize = 128;
-    var iterationCount = 100;
-    var passPhrase = "Zeitungsverlag Aachen GmbH";
-    var aesUtil = new AesUtil(keySize, iterationCount);
-    var length = document.getElementsByTagName("script").length;
-    var scripttags = document.getElementsByTagName("script");
-
-    for ( var i=0; i < length; i++) {
-        if(scripttags[i].innerHTML.includes("aesDecrypt(") && !scripttags[i].innerHTML.includes("mail")) {
-            j++;
-        }
-    }
-
-    console.log(j);
-
-    for ( i=0; i < length; i++) {
-        if(scripttags[i].innerHTML.includes("aesDecrypt(") && !scripttags[i].innerHTML.includes("mail")) {
-            console.log(scripttags[i].innerHTML);
-            cipherText = scripttags[i].innerHTML.split("\"")[1];
-            decrypt = aesUtil.decrypt(salt, iv, passPhrase, cipherText);
-            document.getElementsByClassName("single locked")[0].innerHTML = document.getElementsByClassName("single locked")[0].innerHTML + decrypt;
-            j--;
-
-            if (j === 0){
-                break;
-            }
-        }
+var pattern = new RegExp("_aid");
+var website_links = document.getElementsByTagName("a"); 
+for (var i = 0; i < website_links.length; i++) { 
+	var match = website_links[i].getAttribute("href").match(pattern); 
+	if (match) { 
+		website_links[i].setAttribute("href", website_links[i].getAttribute("href") + "?utm_medium=instant-message");
+		console.log(website_links[i].getAttribute("href"));
 	} 
-    
-    document.getElementsByClassName("picture")[0].getElementsByTagName("img")[0].src = document.getElementsByClassName("picture")[0].getElementsByTagName("img")[0].src.toString().replace("quer_125","quer_540");
-    document.getElementsByClassName("icon-paidcontent")[0].className = "icon-check";
-    document.getElementsByClassName("single locked")[0].className = "single";
+}
 }
 )();
