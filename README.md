@@ -1,6 +1,6 @@
 <b>!!! Design Changes and Site Relaunch on 10.09.18 !!!</b><br>
 
-The <b>decryptions isn't working</b> any more since 10.09.18 after a design relaunch.<br>
+<s>The <b>decryptions isn't working</b> any more since 10.09.18 after a design relaunch.<br></s>
 Paywall has changed in general.<br>
 
 see https://www.aachener-zeitung.de/digital/neue-webseite-mit-neuem-design-bei-az-und-an_aid-32816053
