@@ -16,6 +16,6 @@
 	 "https://www.aachener-zeitung.de/*",
 	 "https://www.aachener-nachrichten.de/*"
  ],
- "version": "0.1",
+ "version": "0.4",
  "manifest_version": 2
 }
