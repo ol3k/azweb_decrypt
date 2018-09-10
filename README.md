@@ -1,27 +1,30 @@
 <b>Paywall Hack / Issue</b></br>
 
-<b>!!! Design Changes and Site Relaunch on 10.09.18 !!!</b><br>
+<s><b>!!! Design Changes and Site Relaunch on 10.09.18 !!!</b><br>
 
-<s>The <b>decryptions isn't working</b> any more since 10.09.18 after a design relaunch.<br></s>
+The <b>decryptions isn't working</b> any more since 10.09.18 after a design relaunch.<br></s>
 Paywall has changed in general.<br>
 
 see https://www.aachener-zeitung.de/digital/neue-webseite-mit-neuem-design-bei-az-und-an_aid-32816053
 
 
 <b>Update 10.09.18</b><br>
-Bookmarlet working again. Extension still broken.
+Bookmarklet and extension working again.
+- Click on image to go to decrypted version of article if using direct links to paywall.
+
+<s>
 Usage change:
 
 1. visit website (e.g. https://www.aachener-zeitung.de)
 2. Use bookmarklet to prepare az-web links
-3. No paywall.
+3. No paywall.<s>
 
-<s> <b>Download Chrome Extension:</b><br>
+<b>Download Chrome Extension:</b><br>
 https://chrome.google.com/webstore/detail/azan-decrypt/lmffohencfjcmgodmepkjajnfgbokcli?hl=de<br><br>
 
-<b>mobile version</b><br>
+<s><b>mobile version</b><br>
 Mobile version of website just hides the "real" content.
-- Added bookmarklet for use in mobile browser.</s> 
+- Added bookmarklet for use in mobile browser.</s>
 
 __________________________________________________________________________________________________
 __________________________________________________________________________________________________
