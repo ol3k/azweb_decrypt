@@ -8,7 +8,7 @@ var new_link = "";
 
 for (var i = 0; i < website_links.length; i++) { 
 
-	var link = website_links[i].getAttribute("href");
+	var link = website_links[i].getAttribute("href").split("?")[0];
 
 	if (link.match(pattern)) { 
 		website_links[i].setAttribute("href", link + "?utm_medium=instant-message");
