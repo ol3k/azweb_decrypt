@@ -17,7 +17,7 @@ for (var i = 0; i < website_links.length; i++) {
 		document.getElementsByClassName("park-article__headline")[0].innerHTML = "Click on Image to decrypt!";
 		document.getElementsByClassName("park-article__headline")[0].style.backgroundColor = "red";
 		document.getElementsByClassName("park-article__headline")[0].style.color = "white";
-		website_links[i].setAttribute("href", window.location.href + "?utm_medium=instant-message");
+		website_links[i].setAttribute("href", window.location.href.split("?")[0] + "?utm_medium=instant-message");
 		website_links[i].removeAttribute("target");		
 	}
 }
