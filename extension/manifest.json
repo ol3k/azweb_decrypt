@@ -14,7 +14,9 @@
      "http://www.aachener-zeitung.de/*",
 	 "http://www.aachener-nachrichten.de/*",
 	 "https://www.aachener-zeitung.de/*",
-	 "https://www.aachener-nachrichten.de/*"
+	 "https://www.aachener-nachrichten.de/*",
+	 "https://rp-online.de/*",
+	 "http://rp-online.de/*"
  ],
  "version": "0.6",
  "manifest_version": 2
