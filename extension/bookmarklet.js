@@ -1,7 +1,7 @@
 javascript:(function() {
         
 var pattern = new RegExp("_aid-");
-var pattern_login = new RegExp("imgs");
+var pattern_login = new RegExp("(_bid-|imgs)");
 
 var website_links = document.getElementsByTagName("a"); 
 var ads = document.getElementsByTagName("aside");
