@@ -1,5 +1,26 @@
 <b>Paywall Hack / Issue</b></br>
 
+The <b>"decryption" isn't working</b> any more since 25.04.2020.<br></s>
+
+- no more JS 
+- same cleartext, different ciphertext:
+
+<b>clear:</b><br>
+Die etwas älteren unter den Alemannia-Fans werden sich noch an die Jahreshauptversammlungen erinnern,<br>
+
+<b>cipher:</b><br>
+Die eatws teäenlr tuern end lmnaaeiAnn-saF nrwede hics noch na ied avmaeJslthrrnnepaumguseh rennrn,ie<br>
+Die weats tenälre untre den na-anmeFanilsA dwnere sihc ocnh an die lhunJgaesvtpasaruenmhrme ,irennnre<br>
+ieD wtesa rteälne trune dne emaanFlsani-An rndewe cish chno an ide ehnuhraautvsJegrmpansmel ennri,enr<br>
+
+Looks like exploding or moving strings/chars but no simmilarities have been found yet.
+
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+
 <s><b>!!! Design Changes and Site Relaunch on 10.09.18 !!!</b><br>
 
 The <b>decryptions isn't working</b> any more since 10.09.18 after a design relaunch.<br></s>
